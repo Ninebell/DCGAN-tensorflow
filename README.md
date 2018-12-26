@@ -118,7 +118,3 @@ Details of the histogram of true and fake result of discriminator (with custom d
 ## Author
 
 Taehoon Kim / [@carpedm20](http://carpedm20.github.io/)
-
-## Difference from paper ( DCGAN )
-it uses fully connect layer at first layer in generator and last layer in discriminator. but DCGAN paper changed it to 
-strided convolution at generator and fractional - strided convolutions. so I will change it.
